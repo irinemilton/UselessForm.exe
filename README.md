@@ -48,7 +48,7 @@ Installation:
 bash
 Copy
 Edit
-git clone https://github.com/username/UselessForm.exe
+git clone https://github.com/irinemilton/UselessForm.exe
 Run:
 Just open index.html in a browser (with HTTPS and mic permissions).
 
