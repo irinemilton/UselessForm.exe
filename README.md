@@ -56,7 +56,11 @@ Project Documentation
 Screenshots:
 ![The glorious start screen before you lose hope](assets/intro.png)
 
-Shout-to-Scroll™ in action.
+[🎥 Shout to Scroll In Action](https://drive.google.com/file/d/1k5fejCbWlVUr-pkHgdWyMMy3CAF2KDqm/view?usp=sharing)
+
+[Want to experience the full website for real](https://useless-form-exe.vercel.app/)
+
+
 Infinite Terms & Conditions — for your reading pleasure.
 
 Diagram:
